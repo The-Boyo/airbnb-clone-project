@@ -39,7 +39,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 ## Project Roles and Resposibilities
 
-|## Role	        |   ### Responsibilities
+| Roles	          |    Responsibilities
 |-----------------|---------------------------------------------------------------------|
 |Project          | Manager	Oversees timeline, coordinates team, manages deliverables   |
 |-----------------|---------------------------------------------------------------------|
