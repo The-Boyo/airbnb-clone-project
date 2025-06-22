@@ -58,7 +58,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 |Scrum Master	    | Facilitates agile processes, removes blockers, organizes meetings   |
 |-----------------|---------------------------------------------------------------------|
 
-## UI Components Pattern
+## UI Component Patterns
   ### Navbar
     Logo
     Search bar
