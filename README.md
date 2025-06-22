@@ -32,3 +32,42 @@ A well-designed booking system reduces friction in the user journey, increases c
     Primary Font: Circular, Medium (500), 16px
     Headings: Circular, Bold (700), 24px-32px
     Secondary Text: Circular, Book (400), 14px
+
+## Project Roles and Resposibilities
+### Role	       |   ### Responsibilities
+_______________________________________________________________________________________
+Project          | Manager	Oversees timeline, coordinates team, manages deliverables
+_______________________________________________________________________________________
+Frontend         | Developers	Implements UI components, ensures responsive design
+_______________________________________________________________________________________
+Backend          | Developers	Builds APIs, manages database, implements business logic
+______________________________________________________________________________________
+Designers	       | Creates mockups, maintains design system, ensures UX quality
+______________________________________________________________________________________
+QA/Testers	     | Writes test cases, performs testing, reports bugs
+______________________________________________________________________________________
+DevOps Engineers | Manages deployment, CI/CD pipeline, server infrastructure
+_______________________________________________________________________________________
+Product Owner	   | Defines requirements, prioritizes features, represents stakeholders
+________________________________________________________________________________________
+Scrum Master	   | Facilitates agile processes, removes blockers, organizes meetings
+________________________________________________________________________________________
+
+## UI Components Pattern
+  ### Navbar
+    Logo
+    Search bar
+    User navigation
+    Responsive menu
+    Property Card
+
+  ### Property image
+    Basic details (price, location, rating)
+    Favorite button
+    Responsive layout
+    
+  ### Footer
+    Site links
+    Company information
+    Social media links
+    Copyright information
